@@ -1,0 +1,38 @@
+body{
+   
+    background-color: rgb(247, 247, 109);
+    font-size: 20px;
+    font-weight: bold;
+}
+ol{
+    border: 2px solid black;
+   
+    margin-right: 100px;
+    margin-left: 120px;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    background: white;
+    border-top: 25px solid rgb(4, 110, 114);
+    box-shadow: 0px 0px 40px 20px rgba(0, 0, 0, 0.05); 
+}
+button{
+    background-color: #008CBA;; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+}
+ol li{
+    border: 5px solid rgb(150, 241, 253);
+    background: rgb(150, 241, 253);
+}
+#first{
+    margin-top: 25px;
+}
+li{
+    border-left: 30px;
+}
